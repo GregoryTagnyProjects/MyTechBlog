@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Data Visualization - Category - Gregory&#39;s Tech Blog</title>
+        <link>https://www.gregorytagnyprojects.github.io/categories/data-viz/</link>
+        <description>Data Visualization - Category - Gregory&#39;s Tech Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://www.gregorytagnyprojects.github.io/categories/data-viz/" rel="self" type="application/rss+xml" /><item>
+    <title>Creating a marketing dashboard from open source data</title>
+    <link>https://www.gregorytagnyprojects.github.io/dashboard/</link>
+    <pubDate>Thu, 05 Mar 2020 15:58:26 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://www.gregorytagnyprojects.github.io/dashboard/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/dashboard/dashboard.jpg" referrerpolicy="no-referrer">
+            </div><p>Building a marketing dashboard based on open source data from an e-commerce giant.</p>]]></description>
+</item></channel>
+</rss>

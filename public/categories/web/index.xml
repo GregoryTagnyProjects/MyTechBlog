@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Web Design - Category - Gregory&#39;s Tech Blog</title>
+        <link>https://www.gregorytagnyprojects.github.io/categories/web/</link>
+        <description>Web Design - Category - Gregory&#39;s Tech Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://www.gregorytagnyprojects.github.io/categories/web/" rel="self" type="application/rss+xml" /><item>
+    <title>Building your Github page with Hugo</title>
+    <link>https://www.gregorytagnyprojects.github.io/hugo-github/</link>
+    <pubDate>Tue, 03 Mar 2020 16:29:41 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://www.gregorytagnyprojects.github.io/hugo-github/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/theme-documentation-extended-shortcodes/featured-image.jpg" referrerpolicy="no-referrer">
+            </div><p>A quick and simple step-by-step guide on how to host your Hugo website on Github.</p>]]></description>
+</item></channel>
+</rss>
