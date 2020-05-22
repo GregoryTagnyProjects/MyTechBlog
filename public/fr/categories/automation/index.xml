@@ -1,0 +1,25 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Automatisation - Catégorie - Gregory&#39;s Tech Blog</title>
+        <link>https://www.gregorytagnyprojects.github.io/fr/categories/automation/</link>
+        <description>Automatisation - Catégorie - Gregory&#39;s Tech Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>fr</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</lastBuildDate><atom:link href="https://www.gregorytagnyprojects.github.io/fr/categories/automation/" rel="self" type="application/rss+xml" /><item>
+    <title>Rain prediction and automatic SMS notifications : Part I</title>
+    <link>https://www.gregorytagnyprojects.github.io/fr/rain-checker/</link>
+    <pubDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</pubDate>
+    <author>Auteur</author>
+    <guid>https://www.gregorytagnyprojects.github.io/fr/rain-checker/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/rain-checker/weather.jpg" referrerpolicy="no-referrer">
+            </div><p>Using a weather and a SMS/Whatsapp API to automate precipitations prediction and notifications.</p>]]></description>
+</item><item>
+    <title>Intruder Detector</title>
+    <link>https://www.gregorytagnyprojects.github.io/fr/intruder-detector/</link>
+    <pubDate>Wed, 04 Mar 2020 16:29:41 &#43;0800</pubDate>
+    <author>Auteur</author>
+    <guid>https://www.gregorytagnyprojects.github.io/fr/intruder-detector/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/theme-documentation-built-in-shortcodes/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Using a <strong>Raspberry pi</strong> and a smart light to send notifications about potential intruders.</p>]]></description>
+</item></channel>
+</rss>
