@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Classifier - Tag - Gregory&#39;s Tech Blog</title>
+        <link>https://www.gregorytagnyprojects.github.io/tags/classifier/</link>
+        <description>Classifier - Tag - Gregory&#39;s Tech Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 03 Jun 2020 15:58:26 &#43;0800</lastBuildDate><atom:link href="https://www.gregorytagnyprojects.github.io/tags/classifier/" rel="self" type="application/rss+xml" /><item>
+    <title>Predicting the Titanic survivors</title>
+    <link>https://www.gregorytagnyprojects.github.io/titanic/</link>
+    <pubDate>Wed, 03 Jun 2020 15:58:26 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://www.gregorytagnyprojects.github.io/titanic/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/titanic/titanic2.jpg" referrerpolicy="no-referrer">
+            </div><p>Building a marketing dashboard based on open source data from an e-commerce giant.</p>]]></description>
+</item></channel>
+</rss>

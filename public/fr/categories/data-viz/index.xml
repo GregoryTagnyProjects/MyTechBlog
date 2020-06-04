@@ -12,5 +12,14 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="/images/dashboard/dashboard.jpg" referrerpolicy="no-referrer">
             </div><p>Building a marketing dashboard based on open source data from an e-commerce giant.</p>]]></description>
+</item><item>
+    <title>Predicting the Titanic survivors</title>
+    <link>https://www.gregorytagnyprojects.github.io/fr/titanic/</link>
+    <pubDate>Wed, 03 Jun 2020 15:58:26 &#43;0800</pubDate>
+    <author>Auteur</author>
+    <guid>https://www.gregorytagnyprojects.github.io/fr/titanic/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/titanic/titanic2.jpg" referrerpolicy="no-referrer">
+            </div><p>Building a marketing dashboard based on open source data from an e-commerce giant.</p>]]></description>
 </item></channel>
 </rss>

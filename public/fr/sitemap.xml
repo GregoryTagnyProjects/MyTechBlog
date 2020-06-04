@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://www.gregorytagnyprojects.github.io/fr/rain-checker/</loc><lastmod>2020-05-22T06:37:22&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://www.gregorytagnyprojects.github.io/fr/rain-checker/</loc><lastmod>2020-05-22T06:45:33&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://www.gregorytagnyprojects.github.io/rain-checker/"
@@ -11,7 +11,7 @@
                     hreflang="fr"
                     href="https://www.gregorytagnyprojects.github.io/fr/rain-checker/"
                     /></url><url>
-            <loc>https://www.gregorytagnyprojects.github.io/fr/dashboard/</loc><lastmod>2020-05-22T06:37:22&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://www.gregorytagnyprojects.github.io/fr/dashboard/</loc><lastmod>2020-05-22T06:45:33&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://www.gregorytagnyprojects.github.io/dashboard/"
@@ -20,7 +20,16 @@
                     hreflang="fr"
                     href="https://www.gregorytagnyprojects.github.io/fr/dashboard/"
                     /></url><url>
-            <loc>https://www.gregorytagnyprojects.github.io/fr/intruder-detector/</loc><lastmod>2020-05-22T06:37:22&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://www.gregorytagnyprojects.github.io/fr/titanic/</loc><lastmod>2020-06-04T15:58:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://www.gregorytagnyprojects.github.io/titanic/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="fr"
+                    href="https://www.gregorytagnyprojects.github.io/fr/titanic/"
+                    /></url><url>
+            <loc>https://www.gregorytagnyprojects.github.io/fr/intruder-detector/</loc><lastmod>2020-05-22T06:45:33&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://www.gregorytagnyprojects.github.io/intruder-detector/"
@@ -29,7 +38,7 @@
                     hreflang="fr"
                     href="https://www.gregorytagnyprojects.github.io/fr/intruder-detector/"
                     /></url><url>
-            <loc>https://www.gregorytagnyprojects.github.io/fr/hugo-github/</loc><lastmod>2020-05-22T06:37:22&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://www.gregorytagnyprojects.github.io/fr/hugo-github/</loc><lastmod>2020-05-22T06:45:33&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://www.gregorytagnyprojects.github.io/hugo-github/"
@@ -38,7 +47,7 @@
                     hreflang="fr"
                     href="https://www.gregorytagnyprojects.github.io/fr/hugo-github/"
                     /></url><url>
-            <loc>https://www.gregorytagnyprojects.github.io/fr/google/</loc><lastmod>2020-05-22T06:37:22&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://www.gregorytagnyprojects.github.io/fr/google/</loc><lastmod>2020-05-22T06:45:33&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://www.gregorytagnyprojects.github.io/google/"
@@ -47,7 +56,7 @@
                     hreflang="fr"
                     href="https://www.gregorytagnyprojects.github.io/fr/google/"
                     /></url><url>
-            <loc>https://www.gregorytagnyprojects.github.io/fr/regression/</loc><lastmod>2020-05-22T06:37:22&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://www.gregorytagnyprojects.github.io/fr/regression/</loc><lastmod>2020-05-22T06:45:33&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://www.gregorytagnyprojects.github.io/regression/"
@@ -56,25 +65,7 @@
                     hreflang="fr"
                     href="https://www.gregorytagnyprojects.github.io/fr/regression/"
                     /></url><url>
-            <loc>https://www.gregorytagnyprojects.github.io/fr/tags/api/</loc><lastmod>2020-05-22T06:37:22&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://www.gregorytagnyprojects.github.io/tags/api/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="fr"
-                    href="https://www.gregorytagnyprojects.github.io/fr/tags/api/"
-                    /></url><url>
-            <loc>https://www.gregorytagnyprojects.github.io/fr/tags/aws/</loc><lastmod>2020-05-22T06:37:22&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://www.gregorytagnyprojects.github.io/tags/aws/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="fr"
-                    href="https://www.gregorytagnyprojects.github.io/fr/tags/aws/"
-                    /></url><url>
-            <loc>https://www.gregorytagnyprojects.github.io/fr/categories/</loc><lastmod>2020-05-22T06:37:22&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://www.gregorytagnyprojects.github.io/fr/categories/</loc><lastmod>2020-06-04T15:58:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://www.gregorytagnyprojects.github.io/categories/"
@@ -83,97 +74,16 @@
                     hreflang="fr"
                     href="https://www.gregorytagnyprojects.github.io/fr/categories/"
                     /></url><url>
-            <loc>https://www.gregorytagnyprojects.github.io/fr/posts/</loc><lastmod>2020-05-22T06:37:22&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://www.gregorytagnyprojects.github.io/fr/tags/classifier/</loc><lastmod>2020-06-04T15:58:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://www.gregorytagnyprojects.github.io/posts/"
+                        href="https://www.gregorytagnyprojects.github.io/tags/classifier/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="fr"
-                    href="https://www.gregorytagnyprojects.github.io/fr/posts/"
+                    href="https://www.gregorytagnyprojects.github.io/fr/tags/classifier/"
                     /></url><url>
-            <loc>https://www.gregorytagnyprojects.github.io/fr/tags/python/</loc><lastmod>2020-05-22T06:37:22&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://www.gregorytagnyprojects.github.io/tags/python/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="fr"
-                    href="https://www.gregorytagnyprojects.github.io/fr/tags/python/"
-                    /></url><url>
-            <loc>https://www.gregorytagnyprojects.github.io/fr/tags/</loc><lastmod>2020-05-22T06:37:22&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://www.gregorytagnyprojects.github.io/tags/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="fr"
-                    href="https://www.gregorytagnyprojects.github.io/fr/tags/"
-                    /></url><url>
-            <loc>https://www.gregorytagnyprojects.github.io/fr/tags/kaggle/</loc><lastmod>2020-05-22T06:37:22&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://www.gregorytagnyprojects.github.io/tags/kaggle/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="fr"
-                    href="https://www.gregorytagnyprojects.github.io/fr/tags/kaggle/"
-                    /></url><url>
-            <loc>https://www.gregorytagnyprojects.github.io/fr/tags/tableau/</loc><lastmod>2020-05-22T06:37:22&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://www.gregorytagnyprojects.github.io/tags/tableau/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="fr"
-                    href="https://www.gregorytagnyprojects.github.io/fr/tags/tableau/"
-                    /></url><url>
-            <loc>https://www.gregorytagnyprojects.github.io/fr/tags/r/</loc><lastmod>2020-05-22T06:37:22&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://www.gregorytagnyprojects.github.io/tags/r/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="fr"
-                    href="https://www.gregorytagnyprojects.github.io/fr/tags/r/"
-                    /></url><url>
-            <loc>https://www.gregorytagnyprojects.github.io/fr/tags/rapberry-pi/</loc><lastmod>2020-05-22T06:37:22&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://www.gregorytagnyprojects.github.io/tags/rapberry-pi/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="fr"
-                    href="https://www.gregorytagnyprojects.github.io/fr/tags/rapberry-pi/"
-                    /></url><url>
-            <loc>https://www.gregorytagnyprojects.github.io/fr/tags/front-end/</loc><lastmod>2020-05-22T06:37:22&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://www.gregorytagnyprojects.github.io/tags/front-end/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="fr"
-                    href="https://www.gregorytagnyprojects.github.io/fr/tags/front-end/"
-                    /></url><url>
-            <loc>https://www.gregorytagnyprojects.github.io/fr/tags/web-design/</loc><lastmod>2020-05-22T06:37:22&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://www.gregorytagnyprojects.github.io/tags/web-design/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="fr"
-                    href="https://www.gregorytagnyprojects.github.io/fr/tags/web-design/"
-                    /></url><url>
-            <loc>https://www.gregorytagnyprojects.github.io/fr/tags/k-means/</loc><lastmod>2020-05-22T06:37:22&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://www.gregorytagnyprojects.github.io/tags/k-means/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="fr"
-                    href="https://www.gregorytagnyprojects.github.io/fr/tags/k-means/"
-                    /></url><url>
-            <loc>https://www.gregorytagnyprojects.github.io/fr/tags/machine-learning/</loc><lastmod>2020-05-22T06:37:22&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://www.gregorytagnyprojects.github.io/fr/tags/machine-learning/</loc><lastmod>2020-06-04T15:58:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://www.gregorytagnyprojects.github.io/tags/machine-learning/"
@@ -182,7 +92,115 @@
                     hreflang="fr"
                     href="https://www.gregorytagnyprojects.github.io/fr/tags/machine-learning/"
                     /></url><url>
-            <loc>https://www.gregorytagnyprojects.github.io/fr/tags/cbind/</loc><lastmod>2020-05-22T06:37:22&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://www.gregorytagnyprojects.github.io/fr/posts/</loc><lastmod>2020-06-04T15:58:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://www.gregorytagnyprojects.github.io/posts/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="fr"
+                    href="https://www.gregorytagnyprojects.github.io/fr/posts/"
+                    /></url><url>
+            <loc>https://www.gregorytagnyprojects.github.io/fr/tags/python/</loc><lastmod>2020-06-04T15:58:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://www.gregorytagnyprojects.github.io/tags/python/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="fr"
+                    href="https://www.gregorytagnyprojects.github.io/fr/tags/python/"
+                    /></url><url>
+            <loc>https://www.gregorytagnyprojects.github.io/fr/tags/</loc><lastmod>2020-06-04T15:58:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://www.gregorytagnyprojects.github.io/tags/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="fr"
+                    href="https://www.gregorytagnyprojects.github.io/fr/tags/"
+                    /></url><url>
+            <loc>https://www.gregorytagnyprojects.github.io/fr/tags/api/</loc><lastmod>2020-05-22T06:45:33&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://www.gregorytagnyprojects.github.io/tags/api/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="fr"
+                    href="https://www.gregorytagnyprojects.github.io/fr/tags/api/"
+                    /></url><url>
+            <loc>https://www.gregorytagnyprojects.github.io/fr/tags/aws/</loc><lastmod>2020-05-22T06:45:33&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://www.gregorytagnyprojects.github.io/tags/aws/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="fr"
+                    href="https://www.gregorytagnyprojects.github.io/fr/tags/aws/"
+                    /></url><url>
+            <loc>https://www.gregorytagnyprojects.github.io/fr/tags/kaggle/</loc><lastmod>2020-05-22T06:45:33&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://www.gregorytagnyprojects.github.io/tags/kaggle/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="fr"
+                    href="https://www.gregorytagnyprojects.github.io/fr/tags/kaggle/"
+                    /></url><url>
+            <loc>https://www.gregorytagnyprojects.github.io/fr/tags/tableau/</loc><lastmod>2020-05-22T06:45:33&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://www.gregorytagnyprojects.github.io/tags/tableau/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="fr"
+                    href="https://www.gregorytagnyprojects.github.io/fr/tags/tableau/"
+                    /></url><url>
+            <loc>https://www.gregorytagnyprojects.github.io/fr/tags/r/</loc><lastmod>2020-05-22T06:45:33&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://www.gregorytagnyprojects.github.io/tags/r/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="fr"
+                    href="https://www.gregorytagnyprojects.github.io/fr/tags/r/"
+                    /></url><url>
+            <loc>https://www.gregorytagnyprojects.github.io/fr/tags/rapberry-pi/</loc><lastmod>2020-05-22T06:45:33&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://www.gregorytagnyprojects.github.io/tags/rapberry-pi/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="fr"
+                    href="https://www.gregorytagnyprojects.github.io/fr/tags/rapberry-pi/"
+                    /></url><url>
+            <loc>https://www.gregorytagnyprojects.github.io/fr/tags/front-end/</loc><lastmod>2020-05-22T06:45:33&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://www.gregorytagnyprojects.github.io/tags/front-end/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="fr"
+                    href="https://www.gregorytagnyprojects.github.io/fr/tags/front-end/"
+                    /></url><url>
+            <loc>https://www.gregorytagnyprojects.github.io/fr/tags/web-design/</loc><lastmod>2020-05-22T06:45:33&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://www.gregorytagnyprojects.github.io/tags/web-design/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="fr"
+                    href="https://www.gregorytagnyprojects.github.io/fr/tags/web-design/"
+                    /></url><url>
+            <loc>https://www.gregorytagnyprojects.github.io/fr/tags/k-means/</loc><lastmod>2020-05-22T06:45:33&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://www.gregorytagnyprojects.github.io/tags/k-means/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="fr"
+                    href="https://www.gregorytagnyprojects.github.io/fr/tags/k-means/"
+                    /></url><url>
+            <loc>https://www.gregorytagnyprojects.github.io/fr/tags/cbind/</loc><lastmod>2020-05-22T06:45:33&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://www.gregorytagnyprojects.github.io/tags/cbind/"
@@ -191,7 +209,7 @@
                     hreflang="fr"
                     href="https://www.gregorytagnyprojects.github.io/fr/tags/cbind/"
                     /></url><url>
-            <loc>https://www.gregorytagnyprojects.github.io/fr/tags/ggplot2/</loc><lastmod>2020-05-22T06:37:22&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://www.gregorytagnyprojects.github.io/fr/tags/ggplot2/</loc><lastmod>2020-05-22T06:45:33&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://www.gregorytagnyprojects.github.io/tags/ggplot2/"
@@ -200,7 +218,7 @@
                     hreflang="fr"
                     href="https://www.gregorytagnyprojects.github.io/fr/tags/ggplot2/"
                     /></url><url>
-            <loc>https://www.gregorytagnyprojects.github.io/fr/about/</loc><lastmod>2020-05-22T06:37:22&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://www.gregorytagnyprojects.github.io/fr/about/</loc><lastmod>2020-05-22T06:45:33&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://www.gregorytagnyprojects.github.io/about/"
@@ -209,7 +227,7 @@
                     hreflang="fr"
                     href="https://www.gregorytagnyprojects.github.io/fr/about/"
                     /></url><url>
-            <loc>https://www.gregorytagnyprojects.github.io/fr/scripts/</loc><lastmod>2020-05-22T06:37:22&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://www.gregorytagnyprojects.github.io/fr/scripts/</loc><lastmod>2020-05-22T06:45:33&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://www.gregorytagnyprojects.github.io/scripts/"
@@ -218,7 +236,7 @@
                     hreflang="fr"
                     href="https://www.gregorytagnyprojects.github.io/fr/scripts/"
                     /></url><url>
-            <loc>https://www.gregorytagnyprojects.github.io/fr/</loc><lastmod>2020-05-22T06:37:22&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://www.gregorytagnyprojects.github.io/fr/</loc><lastmod>2020-05-22T06:45:33&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://www.gregorytagnyprojects.github.io/"
@@ -227,7 +245,7 @@
                     hreflang="fr"
                     href="https://www.gregorytagnyprojects.github.io/fr/"
                     /></url><url>
-            <loc>https://www.gregorytagnyprojects.github.io/fr/categories/data-analysis/</loc><lastmod>2020-05-22T06:37:22&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://www.gregorytagnyprojects.github.io/fr/categories/data-analysis/</loc><lastmod>2020-05-22T06:45:33&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://www.gregorytagnyprojects.github.io/categories/data-analysis/"
@@ -236,7 +254,7 @@
                     hreflang="fr"
                     href="https://www.gregorytagnyprojects.github.io/fr/categories/data-analysis/"
                     /></url><url>
-            <loc>https://www.gregorytagnyprojects.github.io/fr/categories/automation/</loc><lastmod>2020-05-22T06:37:22&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://www.gregorytagnyprojects.github.io/fr/categories/automation/</loc><lastmod>2020-05-22T06:45:33&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://www.gregorytagnyprojects.github.io/categories/automation/"
@@ -245,8 +263,8 @@
                     hreflang="fr"
                     href="https://www.gregorytagnyprojects.github.io/fr/categories/automation/"
                     /></url><url>
-            <loc>https://www.gregorytagnyprojects.github.io/fr/tags/automation/</loc><lastmod>2020-05-22T06:37:22&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://www.gregorytagnyprojects.github.io/fr/tags/sensor/</loc><lastmod>2020-05-22T06:37:22&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://www.gregorytagnyprojects.github.io/fr/tags/automation/</loc><lastmod>2020-05-22T06:45:33&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://www.gregorytagnyprojects.github.io/fr/tags/sensor/</loc><lastmod>2020-05-22T06:45:33&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://www.gregorytagnyprojects.github.io/tags/sensor/"
@@ -255,8 +273,8 @@
                     hreflang="fr"
                     href="https://www.gregorytagnyprojects.github.io/fr/tags/sensor/"
                     /></url><url>
-            <loc>https://www.gregorytagnyprojects.github.io/fr/tags/content/</loc><lastmod>2020-05-22T06:37:22&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://www.gregorytagnyprojects.github.io/fr/categories/data-science/</loc><lastmod>2020-05-22T06:37:22&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://www.gregorytagnyprojects.github.io/fr/tags/content/</loc><lastmod>2020-05-22T06:45:33&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://www.gregorytagnyprojects.github.io/fr/categories/data-science/</loc><lastmod>2020-05-22T06:45:33&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://www.gregorytagnyprojects.github.io/categories/data-science/"
@@ -265,7 +283,7 @@
                     hreflang="fr"
                     href="https://www.gregorytagnyprojects.github.io/fr/categories/data-science/"
                     /></url><url>
-            <loc>https://www.gregorytagnyprojects.github.io/fr/categories/data-viz/</loc><lastmod>2020-05-22T06:37:22&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://www.gregorytagnyprojects.github.io/fr/categories/data-viz/</loc><lastmod>2020-05-22T06:45:33&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://www.gregorytagnyprojects.github.io/categories/data-viz/"
@@ -274,7 +292,7 @@
                     hreflang="fr"
                     href="https://www.gregorytagnyprojects.github.io/fr/categories/data-viz/"
                     /></url><url>
-            <loc>https://www.gregorytagnyprojects.github.io/fr/categories/documentation/</loc><lastmod>2020-05-22T06:37:22&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://www.gregorytagnyprojects.github.io/fr/categories/documentation/</loc><lastmod>2020-05-22T06:45:33&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://www.gregorytagnyprojects.github.io/categories/documentation/"
@@ -283,7 +301,7 @@
                     hreflang="fr"
                     href="https://www.gregorytagnyprojects.github.io/fr/categories/documentation/"
                     /></url><url>
-            <loc>https://www.gregorytagnyprojects.github.io/fr/tags/electronics/</loc><lastmod>2020-05-22T06:37:22&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://www.gregorytagnyprojects.github.io/fr/tags/electronics/</loc><lastmod>2020-05-22T06:45:33&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://www.gregorytagnyprojects.github.io/tags/electronics/"
@@ -292,7 +310,7 @@
                     hreflang="fr"
                     href="https://www.gregorytagnyprojects.github.io/fr/tags/electronics/"
                     /></url><url>
-            <loc>https://www.gregorytagnyprojects.github.io/fr/categories/machine-learning/</loc><lastmod>2020-05-22T06:37:22&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://www.gregorytagnyprojects.github.io/fr/categories/machine-learning/</loc><lastmod>2020-05-22T06:45:33&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://www.gregorytagnyprojects.github.io/categories/machine-learning/"
@@ -301,7 +319,7 @@
                     hreflang="fr"
                     href="https://www.gregorytagnyprojects.github.io/fr/categories/machine-learning/"
                     /></url><url>
-            <loc>https://www.gregorytagnyprojects.github.io/fr/categories/web/</loc><lastmod>2020-05-22T06:37:22&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://www.gregorytagnyprojects.github.io/fr/categories/web/</loc><lastmod>2020-05-22T06:45:33&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://www.gregorytagnyprojects.github.io/categories/web/"
